@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    padding: 20px;
+    background-image: url('https://th.bing.com/th/id/OIP.etDFqbwjj304_gVLFbm-ogHaEo?w=251&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.title {
+    margin-top: 0;
+}
+
+.card {
+    margin-top: 20px;
+    background: transparent;
+    box-shadow: 10px 10px 36px 5px rgb(217, 231, 22);
+}
+
+.form-group__label,
+.title {
+    color: rgb(233, 218, 14);
+}
+
+.card-title {
+    color: rgb(236, 221, 13);
+    text-decoration: underline;
+    margin-bottom: 15px;
+}
